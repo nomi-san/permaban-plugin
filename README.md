@@ -3,9 +3,10 @@ Your account is permanently suspended. A fake ban alert plugin for Pengu Loader.
 
 ## How to use?
 
-Goto **releases** and download the **permaban.js**, then put it in plugins folder.
+1. Install **Pengu Loader** https://github.com/PenguLoader/PenguLoader/releases
+2. Go to **releases** and download the **permaban.js**, then put it in plugins folder.
 
-## Screenshoots
+## Screenshots
 
 ![](https://i.imgur.com/kfXsrgn.png)
 
